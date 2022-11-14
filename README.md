@@ -1,4 +1,4 @@
-# Mvc
+# Supermarket management system
 Projects in Java
 Supermarket management system, there are front-end and back-end with database. 
 Users can access the database by password login, the data of the database can be realized CRUD, 
